@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Collision of Cultures Assignment</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      line-height: 1.6;
+      padding: 2em;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h1, h2 {
+      color: #2a4d69;
+    }
+
+    .section {
+      background-color: #fff;
+      padding: 1.5em;
+      margin-bottom: 2em;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    ul {
+      margin-top: 0.5em;
+      padding-left: 1.5em;
+    }
+
+    .highlight {
+      background-color: #e2f0d9;
+      padding: 0.3em 0.6em;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+
+    code {
+      background-col
